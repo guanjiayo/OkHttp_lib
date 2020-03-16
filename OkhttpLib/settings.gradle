@@ -1,0 +1,2 @@
+rootProject.name='OkhttpLib'
+include ':app', ':lib_network'
